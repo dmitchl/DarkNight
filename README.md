@@ -1,2 +1,2 @@
 # DarkNight
-This is theme for IntelliJ IDEA
+This is dark theme for IntelliJ IDEA which based on default Darcula Theme
